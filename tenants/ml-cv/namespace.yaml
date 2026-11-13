@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workspace-ml-cv
+  labels:
+    platform.ai/tenant: "ml-cv"
+    platform.ai/project-id: "pending-handoff"
+    platform.ai/cost-center: "1004200"
+    platform.ai/environment: "test"

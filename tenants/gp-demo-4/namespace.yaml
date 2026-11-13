@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workspace-gp-demo-4
+  labels:
+    platform.ai/tenant: "gp-demo-4"
+    platform.ai/project-id: "pending-handoff"
+    platform.ai/cost-center: "1001042"
+    platform.ai/environment: "test"

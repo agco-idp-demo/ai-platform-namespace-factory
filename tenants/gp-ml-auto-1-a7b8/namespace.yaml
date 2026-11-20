@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: workspace-gp-ml-auto-1-a7b8
+  labels:
+    platform.ai/tenant: "gp-ml-auto-1-a7b8"
+    platform.ai/project-id: "pending-handoff"
+    platform.ai/cost-center: "1001042"
+    platform.ai/environment: "test"
